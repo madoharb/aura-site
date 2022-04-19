@@ -6,7 +6,7 @@ import './skin.css?raw'
 const Logo = ({ projectName }) => {
   return (
     <Icon isLogin={projectName}>
-  <h5>AURA</h5>
+    <h5 class="logo">AURA</h5>
     </Icon>
   )
 }
