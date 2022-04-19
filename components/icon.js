@@ -2,7 +2,7 @@ import React from 'react'
 
 const getIcon = (name, color) => {
   switch (name) {
-    case 'Logo':
+    case 'Logoss':
       return (
         <>
           <path
