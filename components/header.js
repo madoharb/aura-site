@@ -80,7 +80,7 @@ const Header = ({ data = {}, isTransparent, onSetup = () => { } }) => {
                 <div ref={headerRef} className="header--outer">
                     <div className="header--inner">
                         <div className="header--content">
-                            <div className="logo" style="width: 20%;">
+                            <div className="logo" style="width: 15%;">
                                 {router.pathname === '/' ? (
                                     <button
                                         className="logo--link"
